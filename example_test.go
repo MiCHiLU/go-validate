@@ -3,7 +3,7 @@ package validate_test
 import (
 	"errors"
 	"fmt"
-	"github.com/daswasser/validate"
+	"github.com/MiCHiLU/go-validate"
 )
 
 // This will be a method for verifying that we were given the string 'cat'.

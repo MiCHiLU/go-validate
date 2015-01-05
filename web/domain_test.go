@@ -2,7 +2,7 @@ package web
 
 import (
 	"fmt"
-	"github.com/daswasser/validate"
+	"github.com/MiCHiLU/go-validate"
 	"testing"
 )
 
